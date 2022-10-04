@@ -1,0 +1,15 @@
+html
+  head
+    title Render Deploys
+  body
+    table(border='1')
+        h1 Contributor Render Deploy List
+        
+        tr
+            th Github Username
+            th Render Deploy Url
+        each contributor in contribs
+            tr
+                td= contributor.github_username
+                td
+                    a(href=contributor.render_deploy_url)= contributor.render_deploy_url
