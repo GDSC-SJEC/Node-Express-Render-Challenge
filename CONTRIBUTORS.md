@@ -7,3 +7,5 @@
 - [Ashish Kishore](https://github.com/Ashish4869)
 
 - [Godnon Dsilva](https://github.com/godnondsilva)
+
+- [Max Mario](https://github.com/Stormshadows)
