@@ -2,4 +2,6 @@
 
 - [Oren Saldanha](https://github.com/orensaldanha)
 
+- [Ashish Kishore](https://github.com/Ashish4869)
+
 - [Godnon Dsilva](https://github.com/godnondsilva)
