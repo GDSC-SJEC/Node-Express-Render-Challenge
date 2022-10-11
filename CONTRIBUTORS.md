@@ -11,3 +11,5 @@
 - [Max Mario](https://github.com/Stormshadows)
 
 - [Abhishek Morla](https://github.com/abhishekmorla)
+  
+- [Adithya K Shetty](https://github.com/Adithya-K-Shetty)
