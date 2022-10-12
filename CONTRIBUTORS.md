@@ -13,3 +13,5 @@
 - [Abhishek Morla](https://github.com/abhishekmorla)
   
 - [Adithya K Shetty](https://github.com/Adithya-K-Shetty)
+
+- [Hijikesh Hijal](https://github.com/hijal)

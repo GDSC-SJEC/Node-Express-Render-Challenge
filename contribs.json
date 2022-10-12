@@ -30,5 +30,9 @@
   {
     "github_username": "pravin-pk",
     "render_deploy_url": "https://pks-node-express-challenge.onrender.com"
+  },
+  {
+    "github_username": "hijal",
+    "render_deploy_url": "https://hijal.onrender.com"
   }
 ]
