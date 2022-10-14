@@ -34,5 +34,9 @@
   {
     "github_username": "hijal",
     "render_deploy_url": "https://hijal.onrender.com"
+  },
+  {
+    "github_username": "FabianCristancho",
+    "render_deploy_url": "https://fabian-node-deploy.onrender.com/"
   }
 ]
